@@ -1,0 +1,58 @@
+body{
+    background-color: #A7BEAE;
+    font-family: Verdana, sans-serif;
+}
+
+.navmenu a{
+    float: right;
+    color: black;
+    padding: 10px 15px;
+    border-radius: 20px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.navmenu a:hover{
+    background-color: #E7E8D1;
+}
+
+.center{
+    text-align: left;
+    font-size: 1.25em;
+    line-height: 1.5;
+    margin: auto;
+    width: 640px; 
+    padding: 50px;
+}
+
+.subtextcenter{
+    text-align: left;
+    font-size: 1.25em;
+    line-height: 1.5;
+    margin: auto;
+    width: 640px; 
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+    margin: auto;
+    width: 640px; 
+    padding: 50px;
+}
+
+img{
+    border-radius: 20%;
+}
+
+button{
+    border-radius: 12px;
+    background-color: #E7E8D1;
+    font-size: 20px;
+}
+
+textarea{
+    resize: none;
+    height: 100px;
+    width: 500px;
+}
